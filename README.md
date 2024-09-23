@@ -12,8 +12,8 @@ type to fit the data.
 5. Represent the result in graphical representation as given below.
 ### PROGRAM:
 ```
-Developed By:P.Siva Naga Nithin
-Reg.No:212221240037
+Developed By: A joans jay authers
+Reg.No:212221240019
 ```
 ```
 import numpy as np
