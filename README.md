@@ -11,8 +11,8 @@ To Compute the AutoCorrelation Function (ACF) of data for first 35 lags to deter
 5. Represent the result in graphical representation as given below.
 ### PROGRAM:
 ```
-Develped By: G Venkata Pavan Kumar
-Reg. No.: 212221240013
+Develped By: A joans jay authers
+Reg. No.: 212221240019
 ```
 #### Importing Packages:
 ```python
